@@ -1,5 +1,4 @@
-# model_comparison
-Comparison between classification models
+# Comparison between classification models
 1. Decision Tree
 2. Support Vector Machine
 3. Logistic Regression
